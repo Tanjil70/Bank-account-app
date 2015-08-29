@@ -34,12 +34,7 @@ namespace BankAccountApp
            
        }
 
-        public string GetDeposit( double amount)
-        {
-           blance =blance+amount;
-            return amount + " taka has been deposited.";
-        }
-
+      
         public string GetWithdraw( double amount)
         {
              blance -= amount;
