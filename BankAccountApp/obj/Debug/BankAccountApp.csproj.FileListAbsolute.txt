@@ -1,0 +1,24 @@
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Form1.resources
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+c:\users\tanjil\documents\visual studio 2013\Projects\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojResolveAssemblyReference.cache
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Form1.resources
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+F:\Document\Tanjil-BASIC\Pactice\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+F:\Taposh vai\VIdeo\Angularjs Course\New folder\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+F:\Taposh vai\VIdeo\Angularjs Course\New folder\BankAccountApp\obj\Debug\BankAccountApp.exe
+F:\Taposh vai\VIdeo\Angularjs Course\New folder\BankAccountApp\obj\Debug\BankAccountApp.pdb
+F:\Taposh vai\VIdeo\Angularjs Course\Gittest\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+F:\Taposh vai\VIdeo\Angularjs Course\Gittest\BankAccountApp\obj\Debug\BankAccountApp.exe
+F:\Taposh vai\VIdeo\Angularjs Course\Gittest\BankAccountApp\obj\Debug\BankAccountApp.pdb
